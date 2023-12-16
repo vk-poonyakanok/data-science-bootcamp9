@@ -20,4 +20,4 @@ I'm learning data sceince bootcamp. There are 10 sprints in the programs
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-Contact :
+Contact : vk.poonyakanok@gmail.com
