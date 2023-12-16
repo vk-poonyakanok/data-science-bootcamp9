@@ -15,7 +15,7 @@ Passionate General Practitioner with a strong interest in data analytics and tra
 - [Multi-Class Prediction of Cirrhosis Outcomes (Machine Learning)](https://www.kaggle.com/code/vitchakorn/cirrhosis-survival-transplant-outcomes-ml)
 - [Migraine, Oral contraceptive pill & Menstrual Study (Personal Statistical Project)](https://www.kaggle.com/code/vitchakorn/migraine-ocp-menstrualstudy)
 - [Data Storytelling](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/Peer-gradedAssignmentStoryPointsPresentation_16926661282090/Story)
-- [Outpatient Waiting Time Analysis](https://www.kaggle.com/code/vitchakorn/outpatient-waiting-time)
+- [Outpatient Waiting Time Analysis (Python)](https://www.kaggle.com/code/vitchakorn/outpatient-waiting-time)
 - [Malaria Situation Analysis (Python)](https://www.kaggle.com/code/vitchakorn/malaria-thailand/notebook)
 - [กลุ่มโรคที่ป้องกันได้ด้วยวัคซีน (Python)](https://www.kaggle.com/code/vitchakorn/vaccine-preventable-disease-thai)
 - [Personal Blog](https://vitchakorn.wordpress.com)
