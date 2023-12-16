@@ -1,6 +1,8 @@
-# Data Science Bootcamp Batch 9
+# Data Science Bootcamp Batch 9 by [DataRockie](https://datarockie.com/)
 
-I'm learning data sceince bootcamp. There are 10 sprints in the programs
+I'm currently immersed in the Data Science Bootcamp, which is organized into 10 comprehensive sprints.
+
+Also, check out my [Resume](Resume.md) included in this repository for a detailed view of my credentials and experience.
 
 ## First part of the program
 
@@ -13,11 +15,11 @@ I'm learning data sceince bootcamp. There are 10 sprints in the programs
 
 ## Second part of the program
 
-- Building website portfolio
+- Building a website portfolio
 - Essential Statistics
 - Machine Learning for Data Analyst
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-Contact: vk.poonyakanok@gmail.com
+For inquiries or collaborations, feel free to contact me at: vk.poonyakanok@gmail.com
