@@ -9,14 +9,15 @@ Link-In-bio: https://bit.ly/m/vitchakorn
 Passionate General Practitioner with a strong interest in data analytics and travel medicine. Proficient in applying data-driven approaches to improve healthcare services and patient care. Eager to expand my expertise in preventive medicine and data analysis.
 
 ### Portfolio
-- [Malaria Situation in Thailand Dashboard](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/MalariainThailand/Malaria)
-- [Thailand Vaccine Preventable Disease Dashboard](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/ThailandVaccinePreventableDisease/Dashboard)
-- [New York Dog Bite Dashboard](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/NYCDogBite/NYCDogBite)
+- [Malaria Situation in Thailand Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/MalariainThailand/Malaria)
+- [Thailand Vaccine Preventable Disease Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/ThailandVaccinePreventableDisease/Dashboard)
+- [New York Dog Bite Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/NYCDogBite/NYCDogBite)
 - [Multi-Class Prediction of Cirrhosis Outcomes (Machine Learning)](https://www.kaggle.com/code/vitchakorn/cirrhosis-survival-transplant-outcomes-ml)
 - [Migraine, Oral contraceptive pill & Menstrual Study (Personal Statistical Project)](https://www.kaggle.com/code/vitchakorn/migraine-ocp-menstrualstudy)
 - [Data Storytelling](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/Peer-gradedAssignmentStoryPointsPresentation_16926661282090/Story)
-- [Malaria Situation Analysis](https://www.kaggle.com/code/vitchakorn/malaria-thailand/notebook)
-- [กลุ่มโรคที่ป้องกันได้ด้วยวัคซีน](https://www.kaggle.com/code/vitchakorn/vaccine-preventable-disease-thai)
+- [Outpatient Waiting Time Analysis](https://www.kaggle.com/code/vitchakorn/outpatient-waiting-time)
+- [Malaria Situation Analysis (Python)](https://www.kaggle.com/code/vitchakorn/malaria-thailand/notebook)
+- [กลุ่มโรคที่ป้องกันได้ด้วยวัคซีน (Python)](https://www.kaggle.com/code/vitchakorn/vaccine-preventable-disease-thai)
 - [Personal Blog](https://vitchakorn.wordpress.com)
 
 ### Education
