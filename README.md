@@ -13,11 +13,11 @@ I'm learning data sceince bootcamp. There are 10 sprints in the programs
 
 ## Second part of the program
 
-- Buidling wrbsite portfolio
+- Building website portfolio
 - Essential Statistics
-- Machind Learning for Data Analyst
-- Python programming
+- Machine Learning for Data Analyst
+- Python Programming
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-Contact : vk.poonyakanok@gmail.com
+Contact: vk.poonyakanok@gmail.com
