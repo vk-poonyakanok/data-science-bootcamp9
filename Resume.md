@@ -14,7 +14,7 @@ Passionate General Practitioner with a strong interest in data analytics and tra
 - [New York Dog Bite Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/NYCDogBite/NYCDogBite)
 - [Multi-Class Prediction of Cirrhosis Outcomes (Machine Learning)](https://www.kaggle.com/code/vitchakorn/cirrhosis-survival-transplant-outcomes-ml)
 - [Migraine, Oral contraceptive pill & Menstrual Study (Personal Statistical Project)](https://www.kaggle.com/code/vitchakorn/migraine-ocp-menstrualstudy)
-- Ongoing [BNK48 & CGM48 16th Single General Election (GE4) Analysis (Personal Predictive Analysis with Machine Learning Project)](https://github.com/vk-poonyakanok/BNK48_CGM48_GE4_Analysis)
+- [BNK48 & CGM48 16th Single General Election (GE4) Analysis (Personal Predictive Analysis with Machine Learning Project)](https://github.com/vk-poonyakanok/BNK48_CGM48_GE4_Analysis/blob/main/BNK48_CGM48_GE4_predictive_analysis.ipynb)
 - [Data Storytelling](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/Peer-gradedAssignmentStoryPointsPresentation_16926661282090/Story)
 - [Outpatient Waiting Time Analysis (Python)](https://www.kaggle.com/code/vitchakorn/outpatient-waiting-time)
 - [Malaria Situation Analysis (Python)](https://www.kaggle.com/code/vitchakorn/malaria-thailand/notebook)
