@@ -46,8 +46,8 @@ Nongkhai Hospital (2019-2020)
 - Diploma in Clinical Statistics, Chiang Mai University, Online (05/2022)
 
 ### Currently Pursuing
-- Google Cybersecurity Certificate, Coursera (Expected Completion: 02/2024)
 - Data Science Bootcamp 9, DataRockie (Expected Completion: 03/2024)
+- Google Cybersecurity Certificate, Coursera (Expected Completion: 04/2024)
 
 ### Language
 - Thai: Native
