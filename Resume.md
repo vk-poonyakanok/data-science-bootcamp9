@@ -31,7 +31,9 @@ Ramathibodi Hospital, Mahidol University, Thailand
 ### Work Experience
 - **General Practitioner**
 Bamrasnaradura Infectious Diseases Institute, Nonthaburi (2022-Present)
-  - Applied data analysis skills to enhance outpatient clinic services, providing actionable insights for healthcare management.
+  - 𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞: Work in outpatient and ARI clinics, focusing on patient care amidst the COVID-19 pandemic and Monkeypox cases.
+  - 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭: Volunteer to apply data analysis to optimize clinic operations, identifying efficiencies in patient flow and predicting operational challenges to enhance the patient experience.
+  - 𝐕𝐚𝐜𝐜𝐢𝐧𝐞 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞: Offer vaccination consultation on a volunteer basis, advising interns, junior doctors, and nurses on best practices and updated vaccination protocols. Proactively share knowledge on newly available vaccine regimens to ensure the healthcare team is equipped with the latest information in preventive healthcare.
 - **General Practitioner (Intern)**\
 Si Songkhram Hospital, Nakhon Phanom (2020-2022)
 - **General Practitioner (Intern)**\
