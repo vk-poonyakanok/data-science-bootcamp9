@@ -40,6 +40,7 @@ Si Songkhram Hospital, Nakhon Phanom (2020-2022)
 Nongkhai Hospital (2019-2020)
 
 ### Certificate
+- [Certified Professional Data Analyst](https://api.badgr.io/public/assertions/TZjRyAo3Qa-jSuuQoizKZA), Data Science Bootcamp 9 by DataRockie (03/2024)
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WPWVMVL82V42), Coursera (09/2023)
 - [Data Visualization with Tableau Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CSFU3JSWSQMP), UC Davis, Coursera (08/2023)
 - [Excel Level Up Update 2021](https://certificate.skilllane.com/certificates/23QLOQ9), SkillLane (07/2023)
@@ -48,8 +49,8 @@ Nongkhai Hospital (2019-2020)
 - Diploma in Clinical Statistics, Chiang Mai University, Online (05/2022)
 
 ### Currently Pursuing
-- Data Science Bootcamp 9, DataRockie (Expected Completion: 03/2024)
 - Google Cybersecurity Certificate, Coursera (Expected Completion: 04/2024)
+- Google Business Intelligence Certificate, Coursera (Expected Completion: 05/2024)
 
 ### Language
 - Thai: Native
