@@ -9,6 +9,7 @@ Link-In-bio: https://bit.ly/m/vitchakorn
 General Practitioner with a strong background in data analytics and a focus on preventive and travel medicine. Currently in residency training program, I aim to enhance healthcare services through data-driven approaches and specialize in vaccinology and pre-travel consultation.
 
 ### Portfolio
+- [Thai EPI Vaccine Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/EPIMapThailand/s-epi-complete)
 - [Malaria Situation in Thailand Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/MalariainThailand/Malaria)
 - [Thailand Inbound Tourists (Looker)](https://lookerstudio.google.com/s/qdTeP6zwY8w)
 - [Thailand Vaccine Preventable Disease Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/ThailandVaccinePreventableDisease/Dashboard)
