@@ -6,7 +6,7 @@ Address: Ratchapruek Rd, Bangkok, Thailand\
 Link-In-bio: https://bit.ly/m/vitchakorn
 
 ### About me
-Passionate General Practitioner with a strong interest in data analytics and travel medicine. Proficient in applying data-driven approaches to improve healthcare services and patient care. Eager to expand my expertise in preventive medicine and data analysis.
+General Practitioner with a strong background in data analytics and a focus on preventive and travel medicine. Currently in residency training program, I aim to enhance healthcare services through data-driven approaches and specialize in vaccinology and pre-travel consultation.
 
 ### Portfolio
 - [Malaria Situation in Thailand Dashboard (Tableau)](https://public.tableau.com/app/profile/vitchakorn.poonyakanok/viz/MalariainThailand/Malaria)
@@ -30,7 +30,7 @@ Ramathibodi Hospital, Mahidol University, Thailand
 
 ### Work Experience
 - **General Practitioner**
-Bamrasnaradura Infectious Diseases Institute, Nonthaburi (2022-Present)
+Bamrasnaradura Infectious Diseases Institute, Nonthaburi (2022-2024)
   - 𝐆𝐞𝐧𝐞𝐫𝐚𝐥 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞: Work in outpatient and ARI clinics, focusing on patient care amidst the COVID-19 pandemic and Monkeypox cases.
   - 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭: Volunteer to apply data analysis to optimize clinic operations, identifying efficiencies in patient flow and predicting operational challenges to enhance the patient experience.
   - 𝐕𝐚𝐜𝐜𝐢𝐧𝐞 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞: Offer vaccination consultation on a volunteer basis, advising interns, junior doctors, and nurses on best practices and updated vaccination protocols. Proactively share knowledge on newly available vaccine regimens to ensure the healthcare team is equipped with the latest information in preventive healthcare.
